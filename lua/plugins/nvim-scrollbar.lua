@@ -29,7 +29,7 @@ return {
       Info = { color = mocha.teal },
       Hint = { color = mocha.blue },
       GitAdd = { color = mocha.green },
-      GitChange = { color = mocha.blue },
+      GitChange = { color = mocha.yellow },
       GitDelete = { color = mocha.red },
     },
   },
